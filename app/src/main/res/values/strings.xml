@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Team Score Counter</string>
+    <string name="default_score">Score: 0</string>
+    <string name="button_text">GOAL!!!</string>
+    <string name="placeholder_text">Team won by alot points</string>
+    <string name="teamOne">Giants!</string>
+    <string name="teamTwo">Ravens</string>
+    <string name="hint_web_address">WWW.somewhere.com</string>
+    <string name="hint_location">hint_location</string>
+    <string name="findLoc">Find Location</string>
+    <string name="Location">loc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

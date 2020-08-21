@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:defaultValue="0"
+        android:entries="@array/team_entries"
+        android:entryValues="@array/team_values"
+        android:key="team_list_one"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="Choose a favorite Hockey team" />
+
+    <ListPreference
+        android:defaultValue="0"
+        android:entries="@array/team_entries"
+        android:entryValues="@array/team_values"
+        android:key="team_list_two"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="Choose a favorite BaseBall team" />
+
+    <ListPreference
+        android:defaultValue="0"
+        android:entries="@array/team_entries"
+        android:entryValues="@array/team_values"
+        android:key="team_list_three"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="Choose a favorite Football
+</PreferenceScreen>
